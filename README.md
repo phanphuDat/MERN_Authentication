@@ -16,3 +16,20 @@
 14. upadate and delete user Goal.
 
 ## learn the MERN STACK - Front_end Authentication.
+
+1 - Intro & API Explanation
+2 - Create Frontend Folder & Cleanup
+3 - Page Components
+4 - React Router Setup
+5 - Header & Navigation
+6 - Register Page
+7 - Login Page
+8 - Concurrently Setup
+9 - Redux Start & Auth Slice
+10 - Start User Registration
+11 - Extra Reducers For Register
+12 - Hook Up Register Form
+13 - Logout Function
+14 - Start User Login
+15 - Extra Reducers For Login
+16 - Hook Up Login Form

@@ -1,0 +1,8 @@
+{
+    "emmet.optimizeStylesheetParsing": true,
+    "emmet.preferences": {
+    
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": false
+}
